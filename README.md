@@ -1,4 +1,7 @@
-# `gengeommdb` - Script to generate a GeoIP MaxMind DB (mmdb) from ip2asn.com
+# `gengeommdb` - Generate a GeoIP MaxMind DB (mmdb) from ip2asn.com.
+
+A simple Go script to generate a GeoIP MaxMind DB (mmdb) from
+[ip2asn.com](https://ip2asn.com).
 
 ## Contributing
 
